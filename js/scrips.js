@@ -2,7 +2,8 @@ const image = document.getElementById("image")
 const play_pause_btn = document.getElementById("play-pause")
 const audio = document.getElementById("audio")
 const stop_btn = document.getElementById("stop")
-
+const volume_up_btn = document.getElementById("volume-up")
+const volume_down_btn = document.getElementById("volume-down")
 let isplaying = false;
 
 play_pause_btn.addEventListener('click',()=>{
