@@ -15,6 +15,7 @@ body{
     align-items: center;
     margin: 0px;
     padding: 0px;   
+    background-color:rgb(255, 244, 244);
 }
 .main-container{
     width: 100%;
@@ -87,7 +88,9 @@ body{
     width: 291px;
     padding: 1em;
     border-radius: 15px;
-    box-shadow: 5px 5px 10px rgb(245, 144, 153);
+    box-shadow: 5px 5px 10px rgb(177, 177, 177);
+    height: 80%;
+    background-color:rgb(255, 255, 255);
 }
 .image-container{
     width: 20rem;
